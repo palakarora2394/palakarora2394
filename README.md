@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m currently learning Data Analytics ESssentials.
+### 🌱 I’m currently learning Data Analytics Essentials.
 ### ✨ New to the data world
 ### 😄 Appreciate any tips and tricks to make this easier
 
