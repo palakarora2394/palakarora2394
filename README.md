@@ -1,4 +1,7 @@
 ### Hi there 👋
+### 🌱 I’m currently learning Data Analytics ESssentials.
+### ✨ New to the data world
+### 😄 Appreciate any tips and tricks to make this easier
 
 <!--
 **palakarora2394/palakarora2394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
